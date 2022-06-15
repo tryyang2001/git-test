@@ -1,0 +1,14 @@
+To start git, navigate to the folder and type:
+    git init
+
+To stage, type:
+    git add [filename/folder/.(for all unstaged files)]
+
+To commit, type:
+    git commit -m "The commit message"
+
+To check git status, type:
+    git status
+
+To check git history, type:
+    git log {--oneline}
