@@ -12,3 +12,7 @@ To check git status, type:
 
 To check git history, type:
     git log {--oneline}
+
+To checkout a commit, type:
+    git checkout [commit ID]
+
